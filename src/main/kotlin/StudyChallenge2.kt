@@ -60,6 +60,6 @@ fun toKilometers(miles: Double): Double {
     return miles * 1.6
 }
 
-fun convertString(randomString: String) : String {
+fun convertString(randomString: String): String {
     return randomString.toLowerCase().replace("a", "x");
 }
