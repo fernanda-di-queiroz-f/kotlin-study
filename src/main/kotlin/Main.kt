@@ -1,3 +1,3 @@
 fun main() {
-    StudyChallenge1()
+    StudyChallenge2()
 }
